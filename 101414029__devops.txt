@@ -1,2 +1,0 @@
-COMP2156 is a course offered at George Brown College, focusing on advanced web development techniques. Students learn to design and implement dynamic web applications using modern technologies such as JavaScript, Node.js, and Express.js. Topics include server-side scripting, database integration, authentication, and security measures, preparing students for careers in web development.
-There are 12 individual assignments, 10 lab exercises, 10 quizzes and 2 exams in this course.
