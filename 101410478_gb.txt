@@ -12,3 +12,5 @@ Varsity team (Husky):
 4. Soccer
 5. Indoor Soccer
 6. Volleyball
+
+There are fitness centre in each of the 3 Campuses. Opening hours: 9-18 Monday to Friday
