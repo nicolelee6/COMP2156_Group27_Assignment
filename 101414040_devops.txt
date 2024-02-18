@@ -1,1 +1,2 @@
 Information about COMP2156
+This is a 2 year diploma course on information technology.
