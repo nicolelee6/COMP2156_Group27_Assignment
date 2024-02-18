@@ -1,0 +1,5 @@
+Info on COMP 2156
+
+COMP 2156 DEvOpos you will gain the foundational understanding of osftware development and informaiton-techonology operations
+
+by exploring tools such as github giving us hands-on labs to try out different aspects of DevOps.
