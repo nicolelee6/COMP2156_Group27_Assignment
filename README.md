@@ -4,7 +4,7 @@ Group Details:
 Chin Fei Chan (Student ID: 101414010)
 Lok Yin Monique Lee (Student ID: 101410478)
 Lok Yiu Nicole Lee (Student ID: 101414029)
-Cyrus (Student ID: 101431720)
+Cyrus Lai (Student ID: 101431720)
 
 101414010: more than 10 commits completed
 101410478: Created 3 files and 11 commits in my own branch
