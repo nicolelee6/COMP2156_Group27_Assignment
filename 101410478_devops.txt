@@ -1,0 +1,6 @@
+COMP 2156	DevOps For System Administration
+
+Lecture: Monday 6PM-8PM
+Lab: Wednesday 6PM-8PM
+
+Passing grade: D (50%)
