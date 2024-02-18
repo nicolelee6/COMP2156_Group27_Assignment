@@ -1,0 +1,7 @@
+Learning DevOps engineering is crucial in the software development cycle as it facilitates collaboration between development and operations teams, streamlines deployment processes, improves code quality, enhances automation, and increases the speed of software delivery. DevOps practices ensure continuous integration, delivery, and deployment, resulting in faster time-to-market and improved overall efficiency.
+
+Job duties:
+1. Infrastructure Automation: Developing scripts and tools to automate infrastructure provisioning, configuration, and deployment processes using tools like Ansible, Terraform, or Puppet.
+2. Continuous Integration/Continuous Deployment (CI/CD): Implementing and maintaining CI/CD pipelines to automate the build, test, and deployment phases of software development, ensuring rapid and reliable delivery of code changes.
+3. Monitoring and Performance Optimization: Setting up monitoring systems to track system health, performance metrics, and application logs, and optimizing infrastructure and application performance based on collected data.
+4. Collaboration and Communication: Facilitating collaboration between development, operations, and other stakeholders, promoting a culture of shared responsibility, and ensuring smooth communication and coordination throughout the software development lifecycle.
