@@ -1,1 +1,1 @@
-First commit: create gb.txt
+Information about George Brown:
