@@ -1,0 +1,5 @@
+DevOps has already become the gold standard in modern IT. It combines development and opeartoins to increase
+
+the efficiency, speed and security of software development delivery compared to tradional processes. A more nimble
+
+software development lifecycle results in a competitive advantage for businesses and their customers.
